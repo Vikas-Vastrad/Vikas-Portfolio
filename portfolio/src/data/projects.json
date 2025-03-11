@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Jio-Cinema clone",
+      "imageSrc": "projects/project.png",
+      "description": "A streaming platform built using React.js that mimics the look and feel of JioCinema",
+      "skills": ["React", "JavaScript", "Node","Github"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Vikas-Vastrad/Jio-cinema"
+    },
+    {
+      "title": "Gemini AI Chatbot",
+      "imageSrc": "projects/project.png",
+      "description": "An AI-powered chatbot built using Spring Boot that incorporates Gemini's API for interactive responses",
+      "skills": ["React", "SpringBoot", "RESTful APIs", "Java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Vikas-Vastrad/gemini-ai"
+    },
+    {
+      "title": "E-Commerce Platform",
+      "imageSrc": "projects/project.png",
+      "description": "CRUD-capable full-stack e-commerce platform that facilitates product administration",
+      "skills": ["React", "SpringBoot", "MySQL", "Postman"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Vikas-Vastrad/E-commerce"
+    }
+  ]
+  

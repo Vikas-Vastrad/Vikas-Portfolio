@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "../../../assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "../../../assets/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "../../../assets/skills/react.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "../../../assets/skills/node.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "SpringBoot",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
