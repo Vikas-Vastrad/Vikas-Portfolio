@@ -6,7 +6,7 @@
       "skills": ["React", "SpringBoot", "Spring Security", "MySQL", "Postman"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com/Vikas-Vastrad/PTMS"
-    },
+    }, 
     {
       "title": "Jio-Cinema clone",
       "imageSrc": "projects/project.png",
