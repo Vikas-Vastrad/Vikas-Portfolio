@@ -3,7 +3,7 @@
       "title": "Project and Timesheet Management Tool",
       "imageSrc": "projects/project.png",
       "description": "A full-stack system for project tracking and employee timesheet management",
-      "skills": ["React", "SpringBoot", "Spring Security", MySQL", "Postman"],
+      "skills": ["React", "SpringBoot", "Spring Security", "MySQL", "Postman"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com/Vikas-Vastrad/PTMS"
     },
