@@ -8,18 +8,18 @@
       "source": "https://www.github.com/Vikas-Vastrad/PTMS"
     }, 
     {
-      "title": "Jio-Cinema clone",
+      "title": "Jio-Cinema Replica",
       "imageSrc": "projects/project.png",
       "description": "A streaming platform built using React.js that mimics the look and feel of JioCinema",
-      "skills": ["React", "JavaScript", "Node","Github"],
+      "skills": ["React", "JavaScript", "CSS","Github", "Flexbox"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com/Vikas-Vastrad/Jio-cinema"
     },
     {
-      "title": "Gemini AI Chatbot",
+      "title": "Gemini AI Inspired Chatbot",
       "imageSrc": "projects/project.png",
       "description": "An AI-powered chatbot built using Spring Boot that incorporates Gemini's API for interactive responses",
-      "skills": ["React", "SpringBoot", "RESTful APIs", "Java"],
+      "skills": ["React", "SpringBoot", "RESTful APIs", "Java", "OpenAI Gemini API"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com/Vikas-Vastrad/gemini-ai"
     }
