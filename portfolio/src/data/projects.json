@@ -19,7 +19,7 @@
       "title": "Jio-Cinema Replica",
       "imageSrc": "projects/project.png",
       "description": "A streaming platform built using React.js that mimics the look and feel of JioCinema",
-      "skills": ["React", "JavaScript", "CSS","Github", "Flexbox"],
+      "skills": ["React", "JavaScript", "CSS","Github", "Flexbox","HTML"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com/Vikas-Vastrad/Jio-cinema"
     }
