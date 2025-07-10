@@ -22,7 +22,7 @@ Welcome to my portfolio website! This project showcases my skills, experience, a
 
 ## 📸 Preview
 
-![Portfolio Preview](https://drive.google.com/file/d/1rcBc80pRsIcxdSMXURfN7Mjg2xDwPhyN/view?usp=sharing)
+[Portfolio Preview](https://drive.google.com/file/d/1rcBc80pRsIcxdSMXURfN7Mjg2xDwPhyN/view?usp=sharing)
 
 ## 🔧 Installation & Setup
 
