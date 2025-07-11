@@ -39,7 +39,7 @@ Welcome to my portfolio website! This project showcases my skills, experience, a
    ```bash
    npm start
    ```
-4. Open `http://localhost:3000` in your browser.
+4. Open `http://localhost:5173` in your browser.
 
 ## 🚀 Deployment
 
